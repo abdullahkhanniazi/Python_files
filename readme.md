@@ -8,6 +8,8 @@
 
 ##### This course is not coverning each and everything but main parts of the programing language and file system that will help you in future while working as Data Analyst | Machine Learnig eng. | Data scientist
 
+![File system](https://github.com/user-attachments/assets/a33e6e18-8b2a-49f5-b429-567f0d56446b)
+
 
 ### Few Topics cover here are (code with comment)
 
